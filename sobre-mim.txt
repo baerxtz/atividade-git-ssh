@@ -1,2 +1,3 @@
 Me chamo Felipe Baer Santos, tenho 18 anos e estudo engenharia de software na universidade UniFil.
 nessa matéria aprendi como mexer no git bash desde o zero, aprendi o que é git add ., git commit e outras coisas muito interessantes. 
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
